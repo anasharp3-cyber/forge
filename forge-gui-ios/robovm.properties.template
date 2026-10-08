@@ -1,9 +1,9 @@
 # Marketing version (CFBundleShortVersionString) — keep in sync with the pom.xml versionCode.
-app.version=2.0.14
+app.version=2.0.16
 app.id=@APP_ID@
 app.mainclass=forge.ios.Main
 app.executable=forge.ios.Main
-app.build=1
+app.build=2
 app.name=Forge
 
 # Set timezone before JVM initialization to avoid iOS sandbox violations.
